@@ -1,0 +1,7 @@
+host: localhost
+port: 8080
+applications:
+    test:
+        app_path: /test_app
+        app_location: /var/tests/test_app.war
+
